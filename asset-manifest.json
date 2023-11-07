@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CanvasDummy/static/css/main.f371396c.css",
+    "main.js": "/CanvasDummy/static/js/main.25dd5328.js",
+    "static/js/787.3561a498.chunk.js": "/CanvasDummy/static/js/787.3561a498.chunk.js",
+    "static/media/courses.JPG": "/CanvasDummy/static/media/courses.38ff00d31403a195fe40.JPG",
+    "static/media/fullbg6th.PNG": "/CanvasDummy/static/media/fullbg6th.adf556c6245b2f3049d0.PNG",
+    "static/media/canvasbg.JPG": "/CanvasDummy/static/media/canvasbg.7bcdf2e55471fb5a9499.JPG",
+    "static/media/FFLogo.png": "/CanvasDummy/static/media/FFLogo.6576ca429ba5aa13fbe4.png",
+    "index.html": "/CanvasDummy/index.html",
+    "main.f371396c.css.map": "/CanvasDummy/static/css/main.f371396c.css.map",
+    "main.25dd5328.js.map": "/CanvasDummy/static/js/main.25dd5328.js.map",
+    "787.3561a498.chunk.js.map": "/CanvasDummy/static/js/787.3561a498.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f371396c.css",
+    "static/js/main.25dd5328.js"
+  ]
+}
